@@ -29,4 +29,5 @@ rm <file>
 rm -r <file/direktori>
 
 Package List :
+  
 sudo apt install plasma-discover
