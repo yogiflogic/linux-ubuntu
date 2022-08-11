@@ -1,7 +1,8 @@
-# linux-ubuntu
+# Linux-Ubuntu
 Repository ini ditujukan untuk hal-hal yang di butuhkan dalam menggunakan Linux-Ubuntu Seperti CLI DLL
 
 CLI Terminal :
+
 sudo su
 
 sudo apt update
